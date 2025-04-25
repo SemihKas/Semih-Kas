@@ -1,0 +1,25 @@
+# Core Data Analysis
+pandas>=1.5.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.10.0
+
+# Statistics & Machine Learning
+scipy>=1.9.0
+scikit-learn>=1.1.0
+scikit-posthocs>=0.7.0  # For post-hoc Dunn tests
+
+# Data Cleaning & Utilities
+python-dateutil>=2.8.0  # For datetime handling
+fuzzywuzzy>=0.18.0      # For string matching
+python-Levenshtein>=0.12.0  # Fuzzywuzzy speedup
+
+# Jupyter (if using notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Version control
+gitpython>=3.1.0
